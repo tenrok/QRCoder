@@ -1,4 +1,4 @@
-﻿#if !NETCOREAPP1_1 && !NET6_0
+﻿#if !NETCOREAPP1_1 && !NET6_0 && !NET8_0
 using Xunit;
 using QRCoder;
 using Shouldly;

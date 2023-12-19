@@ -1,4 +1,4 @@
-﻿#if NETFRAMEWORK || NET5_0_WINDOWS || NET6_0_WINDOWS
+﻿#if NETFRAMEWORK || NET5_0_WINDOWS || NET6_0_WINDOWS || NET8_0_WINDOWS
 using Xunit;
 using QRCoder;
 using QRCoder.Xaml;
